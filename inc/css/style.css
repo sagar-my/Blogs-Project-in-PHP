@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Love+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #0e0f24;
+}
+
+.bg-io {
+    background-color: #c21591;
+}
+
+.io {
+    border-radius: 20px;
+}
+
+.manageClass {
+    background-image: url('../img/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    /* opacity: 0.5; */
+}
+
+.mh {
+    opacity: 1;
+    height: 88vh;
+}
+
+.bg {
+    font-family: 'Roboto', sans-serif;
+}
